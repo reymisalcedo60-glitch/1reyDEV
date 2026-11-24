@@ -75,7 +75,7 @@ ubicacion: "Cotuí, República Dominicana 🇩🇴"
 
 ---
 
-### 🚀 Proyectos Destacados
+### 👑Proyectos Destacados👑
 
 #### 🎟️ Plataforma Full-Stack de Rifas Digitales
 > Aplicación web con selección interactiva de boletos, barra de progreso en tiempo real, carga de comprobantes de pago y validación administrativa.
